@@ -6,4 +6,4 @@ permalink: /about
 
 # Loukas' Portfolio
 
-My name is Loukas, a young professional currently based out of London. I have studied Economics at the University of Bristol and I am currently studying to complete the Professional Certificate in Data Analytics by the Imperial Business School. I currently work in Finance, but after seeing the industry and the way things are currently heading, I have decided to change my career towards Data/Business Analytics.
+My name is Loukas, a young professional currently based out of London. I have studied Economics at the University of Bristol and I am currently studying to complete the Professional Certificate in Data Analytics by the Imperial Business School. I currently work in Finance, but after seeing the industry and the way things are currently heading, I have decided to change my career towards Data/Business Analytics. In my free time, you can usually catch me doing Jiu-Jitsu and exploring London.
